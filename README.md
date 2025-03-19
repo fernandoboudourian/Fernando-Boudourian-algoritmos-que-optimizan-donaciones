@@ -1,1 +1,2 @@
 # Fernando-Boudourian-algoritmos-que-optimizan-donaciones
+La filantropía tradicional está evolucionando con la IA. Los algoritmos procesan grandes volúmenes de datos en segundos, permitiendo que las donaciones sean más precisas y efectivas. La asignación de recursos se vuelve más estratégica, asegurando que la ayuda llegue donde realmente se necesita. Este avance reduce el desperdicio de fondos y mejora el impacto de cada donación. La tecnología ya está marcando la diferencia en el sector social. 
